@@ -61,6 +61,6 @@ typedef struct{
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hola!\n");
     return 0;
 }
